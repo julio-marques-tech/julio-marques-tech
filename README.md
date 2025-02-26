@@ -16,10 +16,8 @@ Currently working as a **Functional and Business Analyst**, with experience in *
 ---
 
 ## 📌 Learning & Projects
-🔹 **[Kubernetes Flask Lab](https://github.com/julio-marques-tech/k8s-flask-la)** → Hands-on experience with Kubernetes & Docker.
-
-🔹 **[OCI Study Guide](https://github.com/julio-marques-tech/oci-study-guide)** → Documenting my journey towards OCI certification.
-
+🔹 OCI Associate Study Guide → Documenting my journey towards OCI certification.
+🔹 Flask & Kubernetes Lab → Hands-on experience deploying a Flask application using Kubernetes and Docker (repository coming soon).
 ---
 
 ## 📬 Let's Connect!
