@@ -16,17 +16,15 @@ Currently working as a **Functional and Business Analyst**, with experience in *
 ---
 
 ## 📌 Learning & Projects
-🔹 **[Kubernetes Flask Lab](https://github.com/julio-marques-tech/k8s-flask-lab)** → Hands-on experience with Kubernetes & Docker.
+🔹 **[Kubernetes Flask Lab](https://github.com/julio-marques-tech/k8s-flask-la)** → Hands-on experience with Kubernetes & Docker.
 
-🔹 **[OCI Associate Study Guide](https://github.com/julio-marques-tech/oci-study-guide)** → Documenting my journey towards OCI certification.
-
-🔹 **[PL/SQL Utilities](https://github.com/julio-marques-tech/plsql-utils)** → Collection of useful PL/SQL scripts for database management.
+🔹 **[OCI Study Guide](https://github.com/julio-marques-tech/oci-study-guide)** → Documenting my journey towards OCI certification.
 
 ---
 
 ## 📬 Let's Connect!
 📌 **LinkedIn:** [linkedin.com/in/juliomarques](https://www.linkedin.com/in/juliomarques/)  
 📌 **GitHub:** [github.com/julio-marques-tech](https://github.com/julio-marques-tech/)  
-📌 **Email:** julio.marques84@hotmail.com_  
+📌 **Email:** julio.marques84@hotmail.com
 
 ⚡ **Currently transitioning into Cloud & DevOps – Let’s connect and share knowledge!**
